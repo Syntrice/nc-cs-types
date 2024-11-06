@@ -1,5 +1,4 @@
-﻿
-namespace NcCsTypes
+﻿namespace NcCsTypes
 {
     internal class Task02
     {
