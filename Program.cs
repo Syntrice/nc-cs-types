@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Task00.Run();
+            Task04.Run();
         }
     }
 }
